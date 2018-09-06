@@ -34,7 +34,7 @@ final class AssignmentManager {
      * assignments map referenced by the assignment name. This contains all the
      * answers as well.
      */
-    final void initialiseAnsweredAssignments() {
+    private void initialiseAnsweredAssignments() {
         assignments.put("2.1", scanner -> { //Assignment 2.1
             System.out.println("Please input an Integer or Double miles value:");
             Double miles = null;
