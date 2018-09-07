@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 
 /**
  *
- * @author bemma
+ * @author Benjamin Staugaard | Benz56
  */
 public class Modul2_Opgaver {
 

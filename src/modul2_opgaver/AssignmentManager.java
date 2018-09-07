@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 
 /**
  *
- * @author bemma
+ * @author Benjamin Staugaard | Benz56
  */
 final class AssignmentManager {
 

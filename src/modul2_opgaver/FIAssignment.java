@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author bemma
+ * @author Benjamin Staugaard | Benz56
  */
 @FunctionalInterface
 interface FIAssignment {
